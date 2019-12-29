@@ -1,1 +1,1 @@
-# Machine_learning_algorithms_practice
+# Machine learning algorithms practice
